@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/CJbooster"><img title="Author" src="https://i.imgur.com/hHGgowS.jpeg&"></a> <a href="https://whatsapp.com/channel/0029VajOKquG3R3pOUajb71j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/+2348138621982"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/CJbooster"><img title="Author" src="https://i.imgur.com/hHGgowS.jpeg.shields.io/badge/CJbooster-black?style=for-the-badge&logo=Github&"></a> <a href="https://wa.me/+2348138621982"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
