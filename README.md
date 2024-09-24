@@ -6,9 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;DEMONIC™-CJ-𝙱𝚄𝙶-𝙱𝙾𝚃;WHATSAPP+BUG+BOT;CREATED+BY+𒆜$ CJ £𒆜;RELEASED+05.08.24" alt="Typing SVG" /></a>
   </p>
 
-  <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VajOKquG3R3pOUajb71j">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/3a21bf26bedef7966fd74.jpg">
+  
     <h1 align="center">DEMONIC™-CJ-𝙱𝚄𝙶-𝙱𝙾𝚃</h1>
   </a>
 </p>
@@ -23,7 +21,7 @@ DEMONIC™-CJ-𝙱𝚄𝙶-𝙱𝙾𝚃 is a bug bot designed to enhance the fun
 If you clone my repo or use as base bot, dont forget to give credits. 𒆜$ CJ £𒆜
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/CJbooster/DEMONIC™-CJ-𝙱𝚄𝙶-𝙱𝙾𝚃/fork' target="_blank"><img alt='Fork repo' src='https://i.imgur.com/hHGgowS.jpeg/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/CJbooster/DEMONIC™-CJ-𝙱𝚄𝙶-𝙱𝙾𝚃/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
@@ -38,7 +36,7 @@ IF YOU DON'T HAVE A PANEL ACCOUNT CREATE ONE AND SERVER TO DEPLOY
 
 ## 2. <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy on render-black?style=for-the-badge&logo=render&logoColor=white'/>
 ## Watch Tutorial videos.
-* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@𒆜$ CJ £𒆜)
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Demoni_CJ_Tech)
 
 ### DEPLOYMENT ON TERMUX
 
