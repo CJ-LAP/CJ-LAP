@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/CJbooster"><img title="Author" src="https://i.imgur.com/hHGgowS.jpeg.shields.io/badge/CJbooster-black?style=for-the-badge&logo=Github&"></a> <a href="https://wa.me/+2348138621982"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/CJbooster"><img title="Author" src="https://i.imgur.com/hHGgowS.jpeg/CJbooster-black?style=for-the-badge&logo=Github&"></a> <a href="https://wa.me/+2348138621982"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 
    
    
@@ -23,7 +23,7 @@ DEMONIC™-CJ-𝙱𝚄𝙶-𝙱𝙾𝚃 is a bug bot designed to enhance the fun
 If you clone my repo or use as base bot, dont forget to give credits. 𒆜$ CJ £𒆜
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/CJbooster/DEMONIC™-CJ-𝙱𝚄𝙶-𝙱𝙾𝚃/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/CJbooster/DEMONIC™-CJ-𝙱𝚄𝙶-𝙱𝙾𝚃/fork' target="_blank"><img alt='Fork repo' src='https://i.imgur.com/hHGgowS.jpeg/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
    
 
 
